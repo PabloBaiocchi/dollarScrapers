@@ -1,3 +1,6 @@
+import requests
+from bs4 import BeautifulSoup
+
 def parsePrice(priceString):
     digits=filter(lambda x: x.isdigit(),priceString)
     digitString=''.join(digits)
