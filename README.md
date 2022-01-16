@@ -1,4 +1,4 @@
-# posgradoFinanzas
+# dollarScrapers
 <pre>
 Dolar mayorista source:
     http://www.bcra.gov.ar/PublicacionesEstadisticas/Principales_variables_datos.asp
